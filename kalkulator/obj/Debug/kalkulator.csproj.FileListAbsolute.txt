@@ -1,0 +1,7 @@
+D:\pemrograman\kalkulator\kalkulator\bin\Debug\kalkulator.exe.config
+D:\pemrograman\kalkulator\kalkulator\bin\Debug\kalkulator.exe
+D:\pemrograman\kalkulator\kalkulator\bin\Debug\kalkulator.pdb
+D:\pemrograman\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.AssemblyReference.cache
+D:\pemrograman\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.CoreCompileInputs.cache
+D:\pemrograman\kalkulator\kalkulator\obj\Debug\kalkulator.exe
+D:\pemrograman\kalkulator\kalkulator\obj\Debug\kalkulator.pdb
